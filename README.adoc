@@ -27,7 +27,7 @@
 . **搜索程序相关问题， https://stackoverflow.com/[Stack Overflow] 是第一选择。** -- 必备技能。不夸张地说，没有 Stack Overflow 解答不了的技术问题。
 . **百科只认 https://en.wikipedia.org/[Wikipedia]。** -- 解释更全面，内容更全面，更新更及时。
 . **必须学会使用 https://github.com/[GitHub]。** -- 必做任务。希望把大学的代码都放到 GitHub 上。
-. **到毕业为止刷够500道 https://leetcode.com/problemset/all/[LeetCode] 题。** -- 非硬性要求。考虑到目前招聘企业都面算法题，自己掂量。**注意：一定要是用英文网站。**
+. **到毕业为止刷够 500 道 https://leetcode.com/problemset/all/[LeetCode] 题。** -- 必做任务。**注意：一定要是用英文网站。**
 . **推荐学习一个轻量级标记语言。** -- 非硬性要求。不过，好处多多，谁用谁知道。
 .. https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference] -- 强烈推荐学习 AsciiDoctor。在增加稍许复杂度的情况下，功能更加强大，工具链也更加完整。
 .. https://guides.github.com/features/mastering-markdown/[Mastering Markdown · GitHub Guides] -- Markdown 可以说是随着 GitHub 而发扬光大的，GitHub 对其支持的非常好。在 Issue，README 等各方面都可以使用。
