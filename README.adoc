@@ -30,7 +30,7 @@
 . **到毕业为止刷够500道 https://leetcode.com/problemset/all/[LeetCode] 题。** -- 非硬性要求。考虑到目前招聘企业都面算法题，自己掂量。**注意：一定要是用英文网站。**
 . **推荐学习一个轻量级标记语言。** -- 非硬性要求。不过，好处多多，谁用谁知道。
 .. https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference] -- 强烈推荐学习 AsciiDoctor。在增加稍许复杂度的情况下，功能更加强大，工具链也更加完整。
-.. https://www.markdownguide.org/basic-syntax/[Markdown Guide] -- 可以说是随着 GitHub 而发扬光大的，GitHub 对其支持的非常好。在 Issue，README 等各方面都可以使用。
+.. https://guides.github.com/features/mastering-markdown/[Mastering Markdown · GitHub Guides] -- Markdown 可以说是随着 GitHub 而发扬光大的，GitHub 对其支持的非常好。在 Issue，README 等各方面都可以使用。
 . **学习一门技术请认准官方文档，先通读一遍官方文档再说。** -- 学习中遇到的很多问题，基本在官方文档中都有介绍，看官方文档虽然略慢，但是大巧若拙。另外，大多数技术都起源于美国。所以，学好英文，看英文原版资料是基础技能。
 . **刷论坛，看文章，优先选择 https://medium.com/[Medium]。** -- 一个非常好的社区。请科学上网。
 . **看书首选经典。** -- 由于很多因素，导致学校在给学生购买教程时，往往选的都是垃圾。所以，在教程之外，推荐在购买一本经典书相辅。选书就上 https://book.douban.com/[豆瓣读书]，评分在八分以上就是好书，在九分以上就是神书。
