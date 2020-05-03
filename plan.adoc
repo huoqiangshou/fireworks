@@ -34,11 +34,15 @@
 ... Spring MVC
 ... Spring Boot
 .. Java 高级
-... JVM
+... 内存布局
+... 垃圾回收算法
+... 常用 GC
+... 诊断工具
 ... 类加载
 ... 字节码编辑
 ... Java Agent
-... 
+... Java Memory Model
+. Rust 语言
 . 操作系统
 . Linux 系统
 . 计算机组成原理
@@ -47,6 +51,7 @@
 . 编译原理
 . 软件工程
 . 设计模式
+. Go 语言
 . 分布式
 .. 微服务开发
 ... Spring Cloud
