@@ -309,6 +309,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 
 . 实现一个 HTTP 0.9 协议。
 . 实现一个 Java Servlet 容器。
+. https://www.bilibili.com/video/av31470470[手写服务器httpserver项目]
 
 === Java 语言
 
@@ -325,3 +326,12 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 === Linux 学习
 
 . http://www.linuxfromscratch.org/lfs/download.html[Linux From Scratch] -- 自己编译 Linux 系统。
+
+
+== 小工具
+
+. https://naotu.baidu.com/[百度脑图 - 便捷的思维工具]
+. https://processon.com/[ProcessOn - 免费在线作图，思维导图，流程图，实时协作]
+. https://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
+. https://asciidoctor.org/[Asciidoctor] -- 轻量级标记语言，功能强大，排版优美，文档齐全。
+. https://gohugo.io/[The world’s fastest framework for building websites | Hugo] -- 静态网站生成器，可以结合 GitHub 搭建自己的博客。
