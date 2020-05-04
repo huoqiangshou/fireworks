@@ -8,9 +8,21 @@
 该攻略还处于草创阶段，有好的意见和建议、靠谱资料等等，欢迎发 PR 过来。
 ****
 
+== 前言
+
+虽然大学四年，但是针对大学毕业生的校招一般在大四九月份就开始了。这才是大学学习的一个关键里程碑节点。建议以此节点向前倒推，来安排大学的课程。
+
+该学习攻略主要是针对大四毕业就工作的学生。但是，计算机知识都是相同的。资料也可以共享。考研的学生请根据自己的情况做出调整。
+
+大学中，有几个能力需要重点培养：①英语，最好听说读写全面提高；②自学能力；③写作能力；④沟通能力；⑤领导力。写学习笔记就是在强迫自己整理思路，查阅资料，对知识再加工然后输出。指导师弟师妹学习，也是在提高自己的沟通能力和领导力。如果可以，最好能组织一个小队一起完成一个有挑战的项目。
+
+这里强调一点，**大学寒暑假的时间，也要充分利用起来。**如果找兼职或实习，建议只关注和本专业相关的兼职或实习；否则就安心在校学习。这样就每年就会多出两三个月的学习时间。
+
+
 == 知识要点
 
 . 英语
+. 数学
 . HTML
 . JavaScript
 . CSS
@@ -51,6 +63,7 @@
 . 编译原理
 . 软件工程
 . 设计模式
+. Rust 语言
 . Go 语言
 . 分布式
 .. 微服务开发
@@ -72,17 +85,7 @@
 ... etcd
 
 
-== 学习计划
-
-虽然大四才毕业，但是针对大学毕业生的校招一般在大四九月份就开始了。所以，这就是大学学习的一个里程碑节点。以此节点向前倒推，来安排大学的课程。
-
-该学习计划主要是针对大四毕业就工作的学生。考研的学生请根据自己的情况做出调整。
-
-大学中，有几个能力需要重点培养：①英语，最好听说读写全面提高；②自学能力；③写作能力；④沟通能力；⑤领导力。写学习笔记就是在强迫自己整理思路，查阅资料，对知识再加工然后输出。指导师弟师妹学习，也是在提高自己的沟通能力和领导力。如果可以，最好能组织一个小队一起完成一个有挑战的项目。
-
-跟我的大学老师聊天，老师给的反馈大一课程安排有些多。这里有必要说明一下，**大学寒暑假的时间，也要充分利用起来**，如果找兼职或实习就只关注和本专业相关的兼职或实习，否则就在学校学习。这样就每年就会多出三个月的学习时间。
-
-=== 开胃菜
+== 开胃菜
 
 在正式开始大餐之前，可以先来点开胃菜。
 
@@ -93,7 +96,7 @@ https://book.douban.com/subject/27609489/[远见 (豆瓣)^] -- 一个好的职�
 . https://book.douban.com/subject/35006892/[程序员修炼之道（第2版） (豆瓣)^]
 . https://book.douban.com/subject/11614538/[程序员的职业素养 (豆瓣)^]
 
-=== 大一上学期
+== 大一上学期
 
 . 英语
 . Git
@@ -102,11 +105,11 @@ https://book.douban.com/subject/27609489/[远见 (豆瓣)^] -- 一个好的职�
 . CSS
 . C 语言
 
-==== Git
+=== Git
 
 *Git 是程序员的必备技能！*
 
-GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔记、代码等等都托管在 GitHub 上，以后就是自己最好的简历！所以，建议尽早学会这个技能。
+https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。全球最知名的开源项目，几乎全部聚集于此。将自己的学习笔记、代码等等都托管在 GitHub 上，以后就是自己最好的简历！所以，建议尽早学会这个技能。
 
 前期必须掌握的命令有：
 
@@ -119,7 +122,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . `git push`
 . `git pull`
 
-===== 入门资料
+==== 入门资料
 
 . https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies[Git and Github: A Beginner’s Guide for Complete Newbies] -- 结合 Git 和 GitHub 一起做介绍。
 . https://learngitbranching.js.org/[Learn Git Branching] -- 以动画形式在网页上学习 Git，图文并茂，非常棒。建议你们跟着学习。
@@ -130,21 +133,21 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 学会这些内容就够用了。后续高级课程，随着自己技能的提升再来学习。
 
 
-===== 进阶资料
+==== 进阶资料
 
 . http://fancyoung.com/blog/githug-cheat-sheet/[Githug通关全攻略] -- 以游戏通关的形式来介绍 Git，非常好玩。（美中不足，需要在本地安装 Ruby 环境。）
 . https://githug.zhang-ou.com/[Githug 通关攻略] -- 与上一个资料相同，都是 GitHug 的通关攻略。这个介绍得更详细一些。
 . http://marklodato.github.io/visual-git-guide/index-en.html[A Visual Git Reference] -- 这个文档也非常好。属于进阶内容。建议熟练 Git 操作后再入坑。
 . https://git-scm.com/book/en/v2[ProGit] -- 最权威，也是最全面的资料。
 
-==== 入门书籍推荐
+=== 入门书籍推荐
 
 . https://book.douban.com/subject/21338365/[HTML & CSS设计与构建网站 (豆瓣)^] -- 从这本书入门吧。
 . https://book.douban.com/subject/10546125/[JavaScript高级程序设计（第3版）(豆瓣)^] -- 这本书重点看第三、四、五、六、七、十和十三章，建议看两遍以上。另外，稍微关注一下第八章。
 . https://book.douban.com/subject/6038371/[JavaScript DOM编程艺术 （第2版） (豆瓣)^] -- 建议把这本书看两遍，实践两遍。最好能达到可以自己动手实现一遍里面的图片库的水平。
 . https://book.douban.com/subject/4279678/[C语言程序设计 (豆瓣)^] -- C 语言入门首选。谭某人的那些教程趁早扔到垃圾桶里。
 
-==== 进阶书籍推荐
+=== 进阶书籍推荐
 
 . https://book.douban.com/subject/26898555/[CSS 实战手册（第四版） (豆瓣)^]
 . https://book.douban.com/subject/26342322/[HTML5秘籍（第2版） (豆瓣)^]
@@ -153,7 +156,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . https://book.douban.com/subject/6801697/[C语言接口与实现 (豆瓣)^]
 
 
-==== 考核任务
+=== 考核任务
 
 . 读英文版 https://book.douban.com/subject/26260838/[《Harry Potter and the Philosopher's Stone》^] 和 https://book.douban.com/subject/26435068/[《Harry Potter and the Chamber of Secrets》^] 两遍，单词达到六千。
 . 模仿 GitHub 做一个网站，需要包含如下静态网页：
@@ -167,7 +170,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 .. https://github.com/diguage/leetcode/issues[Issues]
 .. https://github.com/spring-projects/spring-framework/pulse[项目脉动] -- 注意这了的图表。
 
-=== 大一下学期
+== 大一下学期
 
 . 英语
 . C++ 语言
@@ -181,14 +184,14 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 .. 动态代理
 .. 字节码
 
-==== 入门书籍推荐
+=== 入门书籍推荐
 
 . https://book.douban.com/subject/30305635/[Java语言程序设计与数据结构(基础篇)(原书第11版) (豆瓣)^] -- 这本书后面有大量的练习题，不要错过这个宝藏。
 . https://book.douban.com/subject/26857943/[C++ 程序设计语言（第 1 - 3 部分）（原书第 4 版） (豆瓣)^]
 . https://book.douban.com/subject/10548379/[数据库系统概念 (豆瓣)^]
 
 
-==== 进阶书籍推荐
+=== 进阶书籍推荐
 
 . https://book.douban.com/subject/23008813/[高性能MySQL (豆瓣)^]
 . https://book.douban.com/subject/26419771/[数据库索引设计与优化 (豆瓣)^] -- 学完数据结构也许对索引的理解更深入。
@@ -196,12 +199,12 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . https://book.douban.com/subject/10484692/[Java并发编程实战 (豆瓣)^]
 . https://book.douban.com/subject/10427315/[深度探索C++对象模型 (豆瓣)^]
 
-==== 考核任务
+=== 考核任务
 
 . 阅读 https://book.douban.com/subject/26587557/[《Harry Potter and the Prisoner of Azkaban》^] 和 https://book.douban.com/subject/26613320/[《Harry Potter and the Goblet of Fire》^] 两遍。单词量突破七千。
 . 完成 https://www.bilibili.com/video/BV1gZ4y1x72o[马士兵老师 Java 坦克大战^] -- 设计模式部分可以作为进阶任务。
 
-=== 大二上学期
+== 大二上学期
 
 . 英语
 . Java 语言进阶
@@ -216,7 +219,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . 操作系统
 . Linux 系统
 
-==== 入门书籍推荐
+=== 入门书籍推荐
 
 . https://book.douban.com/subject/3351927/[Tomcat与Java Web开发技术详解（第2版） (豆瓣)^]
 . https://book.douban.com/subject/30172987/[Linux Shell脚本攻略（第3版） (豆瓣)^]
@@ -225,13 +228,13 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . https://book.douban.com/subject/27074809/[MyBatis从入门到精通 (豆瓣)^]
 . https://book.douban.com/subject/34949443/[Spring实战（第5版 ） (豆瓣)] -- 实际上，学习 Spring 最重要的资料还是官方文档： https://docs.spring.io/spring/docs/current/spring-framework-reference/[Spring Framework Documentation^]。
 
-==== 进阶书籍推荐
+=== 进阶书籍推荐
 
 . https://book.douban.com/subject/25953851/[深入分析Java Web技术内幕（修订版） (豆瓣)^]
 . https://book.douban.com/subject/4889838/[鸟哥的Linux私房菜 (豆瓣)^]
 . https://book.douban.com/subject/20432061/[算法导论（原书第3版） (豆瓣)^]
 
-==== 考核任务
+=== 考核任务
 
 . 阅读 https://book.douban.com/subject/26821023/[《Harry Potter and the Order of the Phoenix》^] 和 https://book.douban.com/subject/26887355/[《Harry Potter and the Half-Blood Prince》^] 两遍。词汇量突破八千。
 . http://os.cs.tsinghua.edu.cn/oscourse/[清华大学计算机系操作系统系列课程^] 对应有一个综合实验。刷一遍课程对应的视频，并且完成课程实验。
@@ -249,7 +252,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 .. Greedy
 .. Dynamic Programming
 
-=== 大二下学期
+== 大二下学期
 
 . 英语
 . 设计模式
@@ -257,7 +260,7 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . 计算机组成原理
 . 计算机网络
 
-==== 入门书籍推荐
+=== 入门书籍推荐
 
 . https://book.douban.com/subject/20260928/[编码 (豆瓣)^]
 . https://book.douban.com/subject/26912767/[深入理解计算机系统（原书第3版） (豆瓣)^]
@@ -265,39 +268,39 @@ GitHub 是全世界最大的同性交友、搞基网站。将自己的学习笔�
 . https://book.douban.com/subject/30280001/[计算机网络（原书第7版） (豆瓣)^]
 . https://book.douban.com/subject/27069503/[构建之法（第三版） (豆瓣)^]
 
-==== 进阶书籍推荐
+=== 进阶书籍推荐
 
 . https://book.douban.com/subject/1088054/[TCP/IP详解 卷1：协议 (豆瓣)^]
 . https://book.douban.com/subject/1477390/[  代码大全（第2版） (豆瓣)^]
 
-==== 考核任务
+=== 考核任务
 
 . 读两遍 https://book.douban.com/subject/26913883/[《Harry Potter and the Deathly Hallows》^]。
 . 完成 ICS 实验： https://nju-projectn.github.io/ics-pa-gitbook/ics2019/[计算机系统基础 2019^]。
 . 刷题 60 道 https://leetcode.com/problemset/all/[LeetCode] 题。
 
-=== 大三上学期
+== 大三上学期
 
 . 编译原理
 
 请注意：大三上学期就要开始为校招做准备了。大三上学期最好能做一个拿得出手的项目。
 
-==== 考核任务
+=== 考核任务
 
 . 学习编译原理课程，根据 https://study.163.com/course/introduction/1002830012.htm[自己动手用java写编译器^] 自己实现一个编译器。
 . 每周 5 道 https://leetcode.com/problemset/all/[LeetCode] 题。
 
-==== 入门书籍推荐
+=== 入门书籍推荐
 
 . https://book.douban.com/subject/3296317/[编译原理 (豆瓣)^]
 
-=== 大三下学期
+== 大三下学期
 
 请注意：大三下学期就要全面为校招准备了。已有知识的夯实和提高。搜集整理面试题；刷算法题；模拟面试等等。
 
 . 分布式基础
 
-==== 考核任务
+=== 考核任务
 
 . 学习 https://www.bilibili.com/video/BV1R7411t71W[2020 MIT 6.824 分布式系统^]，完成课程对应的实验。
 . 每周 5 道 https://leetcode.com/problemset/all/[LeetCode] 题。

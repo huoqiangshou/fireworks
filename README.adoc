@@ -23,32 +23,32 @@
 
 大学时间宝贵，虽然有四年大学时光，但是校招一般会安排在大四九月份，再去掉刚入大学懵懂无知的半年，算下来学习时间也就只有两年半的时间了。需要认真安排自己的学习计划的。鉴于很多在校生对大学课程的整体安排没有一个全面的认识，所以，整理了这样一份学习攻略。
 
-详细内容请看： xref:plan.adoc[大学计算机专业学习攻略]。
+详细内容请看： xref:plan.adoc[大学计算机专业学习攻略^]。
 
 == 学习建议
 
-. **学会 https://haoel.github.io/[科学上网]。** -- 必做任务。穿越长城，走向世界。
+. **学会 https://haoel.github.io/[科学上网^]。** -- 必做任务。穿越长城，走向世界。
 . **学好英语，直接看英文原版资料。** -- 必做任务。希望各位参与者每天抽出一个小时时间来学习英语。最好听说读写全面提高。**真正的墙，并不是 GFW，而是语言。**当面对众多优质英文资料却读不懂，看不会，那才是悲剧。
-. **爱祖国，上 https://www.google.com/[Google]。** -- 必备技能。
-. **搜索程序相关问题， https://stackoverflow.com/[Stack Overflow] 是第一选择。** -- 必备技能。不夸张地说，没有 Stack Overflow 解答不了的技术问题。
-. **百科只认 https://en.wikipedia.org/[Wikipedia]。** -- 解释更全面，内容更全面，更新更及时。
-. **必须学会使用 https://github.com/[GitHub]。** -- 必做任务。希望把大学的代码都放到 GitHub 上。
-. **到毕业为止刷够 500 道 https://leetcode.com/problemset/all/[LeetCode] 题。** -- 必做任务。**注意：一定要是用英文网站。**
+. **爱祖国，上 https://www.google.com/[Google^]。** -- 必备技能。
+. **搜索程序相关问题， https://stackoverflow.com/[Stack Overflow^] 是第一选择。** -- 必备技能。不夸张地说，没有 Stack Overflow 解答不了的技术问题。
+. **百科只认 https://en.wikipedia.org/[Wikipedia^]。** -- 解释更全面，内容更全面，更新更及时。
+. **必须学会使用 https://github.com/[GitHub^]。** -- 必做任务。希望把大学的代码都放到 GitHub 上。
+. **到毕业为止刷够 500 道 https://leetcode.com/problemset/all/[LeetCode^] 题。** -- 必做任务。**注意：一定要是用英文网站。**
 . **推荐学习一个轻量级标记语言。** -- 非硬性要求。不过，好处多多，谁用谁知道。
-.. https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference] -- 强烈推荐学习 AsciiDoctor。在增加稍许复杂度的情况下，功能更加强大，工具链也更加完整。
-.. https://guides.github.com/features/mastering-markdown/[Mastering Markdown · GitHub Guides] -- Markdown 可以说是随着 GitHub 而发扬光大的，GitHub 对其支持的非常好。在 Issue，README 等各方面都可以使用。
+.. https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference^] -- 强烈推荐学习 AsciiDoctor。在增加稍许复杂度的情况下，功能更加强大，工具链也更加完整。
+.. https://guides.github.com/features/mastering-markdown/[Mastering Markdown · GitHub Guides^] -- Markdown 可以说是随着 GitHub 而发扬光大的，GitHub 对其支持的非常好。在 Issue，README 等各方面都可以使用。
 . **学习一门技术请认准官方文档，先通读一遍官方文档再说。** -- 学习中遇到的很多问题，基本在官方文档中都有介绍，看官方文档虽然略慢，但是大巧若拙。另外，大多数技术都起源于美国。所以，学好英文，看英文原版资料是基础技能。
-. **刷论坛，看文章，优先选择 https://medium.com/[Medium]。** -- 一个非常好的社区。请科学上网。
-. **看书首选经典。** -- 由于很多因素，导致学校在给学生购买教程时，往往选的都是垃圾。所以，在教程之外，推荐在购买一本经典书相辅。选书就上 https://book.douban.com/[豆瓣读书]，评分在八分以上就是好书，在九分以上就是神书。
+. **刷论坛，看文章，优先选择 https://medium.com/[Medium^]。** -- 一个非常好的社区。请科学上网。
+. **看书首选经典。** -- 由于很多因素，导致学校在给学生购买教程时，往往选的都是垃圾。所以，在教程之外，推荐在购买一本经典书相辅。选书就上 https://book.douban.com/[豆瓣读书^]，评分在八分以上就是好书，在九分以上就是神书。
 . **勤做学习总结，多发表技术文章。** -- 学习一定要有产出，这样才更有效率。所以，要把自己的学习成果记录下来，然后发表成博客。这样有更多机会接触更优秀的人。获取反馈，改造不足，提高自己。
 
 == 禁止事项
 
-. 坚决禁止使用百度。请用 https://www.google.com/[Google]。
-. 坚决禁止使用百度百科和互动百科。请用 https://en.wikipedia.org/[Wikipedia]。
+. 坚决禁止使用百度。请用 https://www.google.com/[Google^]。
+. 坚决禁止使用百度百科和互动百科。请用 https://en.wikipedia.org/[Wikipedia^]。
 . 坚决禁止使用 CSDN。
-.. 查问题，请用 https://stackoverflow.com/[Stack Overflow]；
-.. 看博客，请用 https://medium.com/[Medium]。
+.. 查问题，请用 https://stackoverflow.com/[Stack Overflow^]；
+.. 看博客，请用 https://medium.com/[Medium^]。
 .. 写博客，请自建博客。推荐 GitHub Pages 或者 WordPress。
 . 禁止刷抖音。
 . 禁止刷盆友圈。
@@ -72,9 +72,9 @@
 
 基本上来说，如果按照上面所提的这 6 大点来学习一门技术，一定会学习到技术的精髓，而且学习的高度在一开始就超过很多人了。如果能这样坚持 2-3 年，相信一定会在某个领域成为炙手可热的佼佼者。
 
-image::./images/the-pyramid-learning.png[The Pyramid Learning]
+image::./images/the-pyramid-learning.png[The Pyramid Learning^]
 
-TIP: “学习方法”摘自 http://gk.link/a/1009i[左耳朵耗子的专栏“左耳听风”]。这是“极客时间”上含金量最高、干货最充足的专栏。强烈推荐购买。
+TIP: “学习方法”摘自 http://gk.link/a/1009i[左耳朵耗子的专栏“左耳听风”^]。这是“极客时间”上含金量最高、干货最充足的专栏。强烈推荐购买。
 
 == 附录
 
