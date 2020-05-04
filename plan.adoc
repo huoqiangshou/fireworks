@@ -85,9 +85,11 @@
 ... etcd
 
 
-== 开胃菜
+== 开胃甜点
 
 在正式开始大餐之前，可以先来点开胃菜。
+
+=== 职业修行
 
 https://book.douban.com/subject/27609489/[远见 (豆瓣)^] -- 一个好的职业生涯，需要前期就做好规划，然后按计划一步一个脚印往前走。这本书有非常好的指导意义。
 
@@ -96,20 +98,11 @@ https://book.douban.com/subject/27609489/[远见 (豆瓣)^] -- 一个好的职�
 . https://book.douban.com/subject/35006892/[程序员修炼之道（第2版） (豆瓣)^]
 . https://book.douban.com/subject/11614538/[程序员的职业素养 (豆瓣)^]
 
-== 大一上学期
+=== 必学的 Git & GitHub
 
-. 英语
-. Git
-. HTML
-. JavaScript
-. CSS
-. C 语言
+*Git & GitHub 是程序员的必备技能！*
 
-=== Git
-
-*Git 是程序员的必备技能！*
-
-https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。全球最知名的开源项目，几乎全部聚集于此。将自己的学习笔记、代码等等都托管在 GitHub 上，以后就是自己最好的简历！所以，建议尽早学会这个技能。
+https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。全球最知名的开源项目，几乎全部聚集于此。将自己的学习笔记、代码等等都托管在 GitHub 上，以后就是自己最好的简历！所以，强烈建议尽早学会这个技能。
 
 前期必须掌握的命令有：
 
@@ -132,13 +125,34 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 学会这些内容就够用了。后续高级课程，随着自己技能的提升再来学习。
 
-
 ==== 进阶资料
 
 . http://fancyoung.com/blog/githug-cheat-sheet/[Githug通关全攻略] -- 以游戏通关的形式来介绍 Git，非常好玩。（美中不足，需要在本地安装 Ruby 环境。）
 . https://githug.zhang-ou.com/[Githug 通关攻略] -- 与上一个资料相同，都是 GitHug 的通关攻略。这个介绍得更详细一些。
 . http://marklodato.github.io/visual-git-guide/index-en.html[A Visual Git Reference] -- 这个文档也非常好。属于进阶内容。建议熟练 Git 操作后再入坑。
 . https://git-scm.com/book/en/v2[ProGit] -- 最权威，也是最全面的资料。
+
+=== 选学的 AsciiDoctor 或 MarkDown
+
+如果想要自己的文档排版精美，轻量级标记语言是一个非常棒的选择。只需要花少许的功夫，就可以把自己的文档排版做得非常精美。（本文档使用 AsciiDoctor 书写。）不需要 Word，不需要学习复杂的技术，投入少，产出大，推荐三连。
+
+轻量级标记语言很多，这里只推荐两个：
+
+. https://asciidoctor.org/[Asciidoctor] -- 文档最齐全，工具链最完整的轻量级标记语言。O'Reilly 的线上出版系统就是使用 AsciiDoctor 的。 
+. https://www.markdownguide.org/[Markdown Guide] -- 坦白讲，MarkDown 借了 GitHub 的东风，成为目前最常用的轻量级标记语言。
+
+两者复杂度很相近，都非常简单。AsciiDoctor 只比 MarkDown 稍微复杂了一点点，但是功能却强大好多。个人更偏爱 AsciiDoctor。但是，在 GitHub 提交 Issue，回复评论时，不得不用 MarkDown。
+
+编辑器的话，推荐 https://code.visualstudio.com/[Visual Studio Code]，微软的良心之作。MarkDown 默认支持，AsciiDoctor 需要安装一个插件。
+
+
+== 大一上学期
+
+. 英语
+. HTML
+. JavaScript
+. CSS
+. C 语言
 
 === 入门书籍推荐
 
@@ -152,7 +166,7 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 . https://book.douban.com/subject/26898555/[CSS 实战手册（第四版） (豆瓣)^]
 . https://book.douban.com/subject/26342322/[HTML5秘籍（第2版） (豆瓣)^]
 . https://book.douban.com/subject/30143702/[JavaScript忍者秘籍（第2版）(豆瓣)^]
-. https://book.douban.com/subject/27127030/[ES6标准入门 (豆瓣)^] -- 这本书也有电子版： https://es6.ruanyifeng.com/[ES6 入门教程]。
+. https://book.douban.com/subject/27127030/[ES6标准入门 (豆瓣)^] -- 这本书也有电子版： https://es6.ruanyifeng.com/[ES6 入门教程]。长期来看，个人觉得 https://www.typescriptlang.org/[TypeScript] 会制霸前端开发，想玩得更前言一些，推荐学习 TypeScript。
 . https://book.douban.com/subject/6801697/[C语言接口与实现 (豆瓣)^]
 
 
@@ -285,14 +299,14 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 请注意：大三上学期就要开始为校招做准备了。大三上学期最好能做一个拿得出手的项目。
 
+=== 入门书籍推荐
+
+. https://book.douban.com/subject/3296317/[编译原理 (豆瓣)^]
+
 === 考核任务
 
 . 学习编译原理课程，根据 https://study.163.com/course/introduction/1002830012.htm[自己动手用java写编译器^] 自己实现一个编译器。
 . 每周 5 道 https://leetcode.com/problemset/all/[LeetCode] 题。
-
-=== 入门书籍推荐
-
-. https://book.douban.com/subject/3296317/[编译原理 (豆瓣)^]
 
 == 大三下学期
 
