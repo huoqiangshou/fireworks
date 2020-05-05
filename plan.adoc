@@ -361,3 +361,7 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 . https://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
 . https://asciidoctor.org/[Asciidoctor] -- 轻量级标记语言，功能强大，排版优美，文档齐全。
 . https://gohugo.io/[The world’s fastest framework for building websites | Hugo] -- 静态网站生成器，可以结合 GitHub 搭建自己的博客。
+. https://solo.b3log.org/#docs/[SOLO] -- JAVA博客系统
+. https://paste.ubuntu.com/[ubuntu] -- 可以用来复制代码，在手机上能够有电脑格式的显示
+. https://visualgo.net/en/[visualgo] --  通过可视化动画实现算法，数据结构
+. https://www.jiumodiary.com/[鸠摩搜索] -- 电子书查询网站
