@@ -1,4 +1,4 @@
-= 大学计算机专业学习攻略
+= 大学计算机学习攻略
 :toc:
 :toc-title: 目录
 :toclevels: 4
@@ -14,9 +14,26 @@
 
 该学习攻略主要是针对大四毕业就工作的学生。但是，计算机知识都是相同的。资料也可以共享。考研的学生请根据自己的情况做出调整。
 
-大学中，有几个能力需要重点培养：①英语，最好听说读写全面提高；②自学能力；③写作能力；④沟通能力；⑤领导力。写学习笔记就是在强迫自己整理思路，查阅资料，对知识再加工然后输出。指导师弟师妹学习，也是在提高自己的沟通能力和领导力。如果可以，最好能组织一个小队一起完成一个有挑战的项目。
+大学中，有几个能力需要重点培养：
+
+. **英语**，最好听说读写全面提高；
+. *自学能力；*
+. *写作能力；*
+. *沟通能力；*
+. *领导力*
+
+写学习笔记就是在强迫自己整理思路，查阅资料，对知识再加工然后输出。指导师弟师妹学习，也是在提高自己的沟通能力和领导力。如果有条件的话，建议尽早组建一个团队，一起完成一些有挑战的项目。
 
 这里强调一点，**大学寒暑假的时间，也要充分利用起来。**如果找兼职或实习，建议只关注和本专业相关的兼职或实习；否则就安心在校学习。这样就每年就会多出两三个月的学习时间。
+
+== 友情支持
+
+如果您觉得这个笔记对您有所帮助，看在D瓜哥码字的辛苦上，请友情支持一下，D瓜哥感激不尽，😜
+
+[cols="2*^",frame=none]
+|===
+| image:images/alipay.png[title="支付宝", alt="支付宝", width="45%"] | image:images/wxpay.png[title="微信", alt="微信", width="45%"]
+|===
 
 
 == 知识要点
@@ -166,7 +183,7 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 . https://book.douban.com/subject/26898555/[CSS 实战手册（第四版） (豆瓣)^]
 . https://book.douban.com/subject/26342322/[HTML5秘籍（第2版） (豆瓣)^]
 . https://book.douban.com/subject/30143702/[JavaScript忍者秘籍（第2版）(豆瓣)^]
-. https://book.douban.com/subject/27127030/[ES6标准入门 (豆瓣)^] -- 这本书也有电子版： https://es6.ruanyifeng.com/[ES6 入门教程]。长期来看，个人觉得 https://www.typescriptlang.org/[TypeScript] 会制霸前端开发，想玩得更前言一些，推荐学习 TypeScript。
+. https://book.douban.com/subject/27127030/[ES6标准入门 (豆瓣)^] -- 这本书也有电子版： https://es6.ruanyifeng.com/[ES6 入门教程^]。长期来看，个人觉得 https://www.typescriptlang.org/[TypeScript^] 会制霸前端开发，想玩得更前沿一些，推荐学习 TypeScript。
 . https://book.douban.com/subject/6801697/[C语言接口与实现 (豆瓣)^]
 
 
@@ -208,6 +225,7 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 进阶书籍推荐
 
 . https://book.douban.com/subject/23008813/[高性能MySQL (豆瓣)^]
+. https://notes.diguage.com/mysql/[MySQL 学习笔记Alpha^]
 . https://book.douban.com/subject/26419771/[数据库索引设计与优化 (豆瓣)^] -- 学完数据结构也许对索引的理解更深入。
 . https://book.douban.com/subject/30358019/[实战Java高并发程序设计（第2版） (豆瓣)^]
 . https://book.douban.com/subject/10484692/[Java并发编程实战 (豆瓣)^]
@@ -353,9 +371,35 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 . http://www.linuxfromscratch.org/lfs/download.html[Linux From Scratch] -- 自己编译 Linux 系统。
 
+== 职业发展方向
+
+=== 基础知识
+
+. 英语
+. C 语言
+. 操作系统
+. 计算机组成原理
+. 计算机网络
+. 数据结构与算法
+. 编译原理
+. 软件工程
+
+=== 数据库管理员 DBA
+=== 数据库开发工程师
+=== 大数据开发工程师
+=== Java 开发工程师
+=== Android 开发工程师
+=== iOS 开发工程师
+=== 前端开发工程师
+=== 数据分析师
+=== 嵌入式开发工程师
+=== 硬件开发工程师
+
 
 == 小工具
 
+. https://github.com/[GitHub]
+. https://stackoverflow.com/[Stack Overflow - Where Developers Learn, Share, & Build Careers]
 . https://naotu.baidu.com/[百度脑图 - 便捷的思维工具]
 . https://processon.com/[ProcessOn - 免费在线作图，思维导图，流程图，实时协作]
 . https://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
