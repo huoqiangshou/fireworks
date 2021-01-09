@@ -1,0 +1,55 @@
+= 自学 Java 系列实验
+:toc:
+:toc-title: 目录
+:toclevels: 4
+:sectnumlevels: 4
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+****
+该实验还处于草创阶段，还有很多地方需要细化，有好的意见和建议、靠谱资料等等，欢迎发 PR 过来。
+****
+
+整个课程中，只是零零散散的资料。感觉不够系统，所以，设计了这个系列整体：从零开始实现一个功能完备的商场。
+
+:sectnums:
+
+== 静态页面的商城
+
+做静态页面，需要学习 HTML + CSS + JavaScript。
+
+== 基于 JSP + Servlet 实现的商城
+
+学习 Java，JSP & Servlet 等相关知识。需要基于前面的项目来慢慢改造。
+
+== 基于 TinyMVC + FreeMarker 实现的商城
+
+基于上面的项目，自己实现一个 MVC 框架：TinyMVC。
+
+将 TinyMVC 抽取出来，做个一个独立的小项目，可以在其他地方复用。
+
+开发框架，就需要重点考虑这个问题：怎么加载未来的类？说的更通俗易懂些，就是如何加载使用这个框架的业务代码。这里就需要学习反射、注解、类加载等知识。
+
+== 基于 TinyMap 实现的商城
+
+基于上面的项目，自己实现一个 O/R Mapping 框架：TinyMap。
+
+将 TinyMap 抽取出来，做成一个独立的小项目，可以在其他地方复用。
+
+== 基于 TinySpring 实现的商城
+
+基于上面的项目，自己实现一个 IOC + AOP 框架： TinySpring。
+
+将 TinySpring。 抽取出来，做成一个独立的小项目，可以在其他地方复用。
+
+== 基于 TinyDubbo 实现的分布式商城
+
+基于上面的项目，自己实现一个分布式服务框架： TinyDubbo。
+
+将 TinyDubbo。 抽取出来，做成一个独立的小项目，可以在其他地方复用。
