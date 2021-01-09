@@ -4,6 +4,14 @@
 :toclevels: 4
 :sectnumlevels: 4
 
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
 ****
 该攻略还处于草创阶段，有好的意见和建议、靠谱资料等等，欢迎发 PR 过来。
 ****
@@ -34,6 +42,12 @@
 |===
 | image:images/alipay.png[title="支付宝", alt="支付宝", width="45%"] | image:images/wxpay.png[title="微信", alt="微信", width="45%"]
 |===
+
+有些打赏的朋友希望可以加个好友，欢迎关注D瓜哥的微信公众号，这样就可以通过公众号的回复直接给我发信息。
+
+image:images/wx-jike-log.png[align="center",width=90%]
+
+TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
 
 
 == 知识要点
