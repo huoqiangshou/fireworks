@@ -33,9 +33,23 @@ image:images/wx-jike-log.png[align="center",width=90%]
 
 TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
 
+
+== 肺腑之言
+
+虽然除本节之外，其他实验都是 D瓜哥 设计的。但坦白讲，个人觉得下面这些实验才更应该花时间来啃下来：
+
+. https://nju-projectn.github.io/ics-pa-gitbook/ics2020/[南京大学 计算机科学与技术系 计算机系统基础 课程实验 2020^] -- 对应书籍是 https://book.douban.com/subject/26912767/[深入理解计算机系统（原书第3版） (豆瓣)^] 或者 https://book.douban.com/subject/30295940/[计算机系统基础 第2版 (豆瓣)^]。据一个在中科院读博的朋友说，做完这个实验，对计算机会有一个非常透彻的了解。
+. https://www.xuetangx.com/course/THU08091000267/5883104[操作系统 - 清华大学 - 学堂在线^] -- 这个课程大作业是实现一个操作系统。和上面的实验重合度很高。选做一个就好，两个都做当然更好。如果这里没有对应视频，B站上有。
+. https://github.com/tidb-incubator/tinykv[tidb-incubator/tinykv: A course to build distributed key-value service based on TiKV model^]
+. https://github.com/tidb-incubator/tinysql/blob/course/courses/material.md[tinysql/material.md at course^]
+. https://iamxpy.github.io/2017/10/05/%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E4%B8%9A%E5%AE%9E%E7%8E%B0SimpleDB/[伯克利大学数据库作业实现SimpleDB ^]
+. https://www.zhihu.com/question/35382593/answer/102269843[大学生如何实现一个数据库？ - 知乎^]
+. https://study.163.com/course/introduction/1002830012.htm[自己动手用java写编译器^]
+. https://www.bilibili.com/video/BV1R7411t71W[2020 MIT 6.824 分布式系统^] -- 这个课程和实验涉及到分布式了，已经算是研究生课程的内容了。
+
+大学期间，有充足的时间，可以好好把一个东西啃透的。只有难学的东西，才更值得花时间折腾。像 Java 预言以及相关的实验，其实侧重点在业务上，对技术的要求反倒不是很高。Java 上手也比较容易。而想把操作系统、计算机网络等吃透，却需要花费很大的功夫。所以，不如趁大学的美好时光，好好努力一把，把这块硬骨头给啃下来！
+
 :sectnums:
-
-
 
 == 静态页面的商城
 
