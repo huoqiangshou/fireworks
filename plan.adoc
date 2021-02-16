@@ -206,16 +206,8 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 考核任务
 
 . 读英文版 https://book.douban.com/subject/26260838/[《Harry Potter and the Philosopher's Stone》^] 和 https://book.douban.com/subject/26435068/[《Harry Potter and the Chamber of Secrets》^] 两遍，单词达到六千。
-. 模仿 GitHub 做一个网站，需要包含如下静态网页：
-.. https://github.com/join[注册]
-.. https://github.com/login[登录]
-.. https://github.com/diguage[个人中心]
-.. https://github.com/notifications[通知中心]
-.. https://github.com/[首页看板] -- 注意：是登录之后，有事件信息的页面，不是没有登录到首页。
-.. https://github.com/settings/profile[设置]
-.. https://github.com/diguage/leetcode[Repo 详情]
-.. https://github.com/diguage/leetcode/issues[Issues]
-.. https://github.com/spring-projects/spring-framework/pulse[项目脉动] -- 注意这了的图表。
+. **必做实验**：完成 xref:assignment.adoc#staic-web[自学 Java 系列实验：静态页面的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
+
 
 == 大一下学期
 
@@ -250,7 +242,9 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 考核任务
 
 . 阅读 https://book.douban.com/subject/26587557/[《Harry Potter and the Prisoner of Azkaban》^] 和 https://book.douban.com/subject/26613320/[《Harry Potter and the Goblet of Fire》^] 两遍。单词量突破七千。
-. 完成 https://www.bilibili.com/video/BV1gZ4y1x72o[马士兵老师 Java 坦克大战^] -- 设计模式部分可以作为进阶任务。
+. **必做实验**：完成 xref:assignment.adoc#jsp-servlet[自学 Java 系列实验：基于 JSP + Servlet 实现的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
+. 备选实验： https://www.bilibili.com/video/BV1gZ4y1x72o[马士兵老师 Java 坦克大战^] -- 设计模式部分可以作为进阶任务。
+
 
 == 大二上学期
 
@@ -285,7 +279,8 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 考核任务
 
 . 阅读 https://book.douban.com/subject/26821023/[《Harry Potter and the Order of the Phoenix》^] 和 https://book.douban.com/subject/26887355/[《Harry Potter and the Half-Blood Prince》^] 两遍。词汇量突破八千。
-. http://os.cs.tsinghua.edu.cn/oscourse/[清华大学计算机系操作系统系列课程^] 对应有一个综合实验。刷一遍课程对应的视频，并且完成课程实验。
+. **推荐实验**： http://os.cs.tsinghua.edu.cn/oscourse/[清华大学计算机系操作系统系列课程^] 对应有一个综合实验。刷一遍课程对应的视频，并且完成课程实验。
+. **必做实验**：完成 xref:assignment.adoc#tiny-mvc[自学 Java 系列实验：基于 TinyMVC + FreeMarker 实现的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
 . 刷 https://leetcode.com/problemset/all/[LeetCode] 题，以下分类“Easy”级别各刷 3 道，“Medium”级别各刷 1 道。
 .. Array
 .. Linked List
@@ -299,6 +294,7 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 .. Backtracking
 .. Greedy
 .. Dynamic Programming
+
 
 == 大二下学期
 
@@ -324,8 +320,10 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 考核任务
 
 . 读两遍 https://book.douban.com/subject/26913883/[《Harry Potter and the Deathly Hallows》^]。
-. 完成 ICS 实验： https://nju-projectn.github.io/ics-pa-gitbook/ics2019/[计算机系统基础 2019^]。
+. **推荐实验**：完成 ICS 实验： https://nju-projectn.github.io/ics-pa-gitbook/ics2019/[计算机系统基础 2019^]。
+. **必做实验**：完成 xref:assignment.adoc#tinymap[自学 Java 系列实验：基于 TinyMap 实现的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
 . 刷题 60 道 https://leetcode.com/problemset/all/[LeetCode] 题。
+
 
 == 大三上学期
 
@@ -339,8 +337,10 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 === 考核任务
 
-. 学习编译原理课程，根据 https://study.163.com/course/introduction/1002830012.htm[自己动手用java写编译器^] 自己实现一个编译器。
+. **推荐实验**：学习编译原理课程，根据 https://study.163.com/course/introduction/1002830012.htm[自己动手用java写编译器^] 自己实现一个编译器。
+. **必做实验**：完成 xref:assignment.adoc#tiny-pool[自学 Java 系列实验：基于 TinyPool 实现的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
 . 每周 5 道 https://leetcode.com/problemset/all/[LeetCode] 题。
+
 
 == 大三下学期
 
@@ -351,7 +351,27 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 === 考核任务
 
 . 学习 https://www.bilibili.com/video/BV1R7411t71W[2020 MIT 6.824 分布式系统^]，完成课程对应的实验。
+. **必做实验**：完成 xref:assignment.adoc#tiny-spring[自学 Java 系列实验：基于 TinySpring 实现的商城^] -- 这是一个系列实验，一定要用心对待，从前往后依次认真完成。
 . 每周 5 道 https://leetcode.com/problemset/all/[LeetCode] 题。
+
+
+== 大四上学期
+
+大四上学期，甚至大三下学期结束，很多公司都开始进行秋招了。所以，一定要在大三下学期就开始准备秋招面试，这样就大概有半年的准备时间，可以把基础知识、算法等系统学习准备一下。这是大学里面最关键的事情之一，一定要用心对待，慎之又慎！
+
+除了基础知识以外，最好有一些必要的项目。这样，也会让自己的简历出彩很多。在前面六个学期的学习过程中，如果把“推荐实验”和“必做实验”依次认真做完，已经是一个不错的代码量了。下面把“必做实验”的最后三个实验也列举一下，这是一个系列实验，一定要用心对待，从前往后依次认真完成：
+
+. 完成 xref:assignment.adoc#tiny-dubbo[自学 Java 系列实验：基于 TinyDubbo 实现的分布式商城^]
+. 完成 xref:assignment.adoc#tiny-sharding[自学 Java 系列实验：基于 TinySharding 实现的分库分表商城^]
+. 完成 xref:assignment.adoc#seckill[自学 Java 系列实验：带秒杀功能的商城^]
+
+再次强调一下，正如我在 xref:assignment.adoc#important-words[自学 Java 系列实验：肺腑之言^] 中所言，虽然必做实验是我设计的，但是“肺腑之言”中所提到的实验更加重要，也更加有挑战，对学好计算机基础，有非常非常重要的促进作用。所以，我再次推荐，**优先把 xref:assignment.adoc#important-words[自学 Java 系列实验：肺腑之言^] 中提到的实验做完！**
+
+
+== 大四下学期
+
+大四下学期，很多人都去公司实习了，就不再推荐课程了。大家自行安排。
+
 
 == 备选资料
 

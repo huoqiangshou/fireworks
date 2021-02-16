@@ -34,6 +34,7 @@ image:images/wx-jike-log.png[align="center",width=90%]
 TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
 
 
+[#important-words]
 == 肺腑之言
 
 虽然除本节之外，其他实验都是 D瓜哥 设计的。但坦白讲，个人觉得下面这些实验才更应该花时间来啃下来：
@@ -51,10 +52,12 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 :sectnums:
 
+[#staic-web]
 == 静态页面的商城
 
 做静态页面，需要学习 HTML + CSS + JavaScript。
 
+[#jsp-servlet]
 == 基于 JSP + Servlet 实现的商城
 
 === 要求
@@ -71,6 +74,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#tiny-mvc]
 == 基于 TinyMVC + FreeMarker 实现的商城
 
 基于上面的项目，自己实现一个 MVC 框架：TinyMVC。
@@ -93,6 +97,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#tinymap]
 == 基于 TinyMap 实现的商城
 
 基于上面的项目，自己实现一个 O/R Mapping 框架：TinyMap。
@@ -122,6 +127,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#tiny-spring]
 == 基于 TinySpring 实现的商城
 
 基于上面的项目，自己实现一个 IOC + AOP 框架： TinySpring。
@@ -141,6 +147,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#tiny-dubbo]
 == 基于 TinyDubbo 实现的分布式商城
 
 基于上面的项目，自己实现一个分布式服务框架： TinyDubbo。
@@ -160,6 +167,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#tiny-sharding]
 == 基于 TinySharding 实现的分库分表商城
 
 基于上面的项目，自己实现一个透明化的数据库代理端，在该代理端内实现分库分表操作： TinySharding。
@@ -181,6 +189,7 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 
 
+[#seckill]
 == 带秒杀功能的商城
 
 自己设计并实现一个秒杀系统。
