@@ -1,0 +1,69 @@
+= 资料珠玑
+:toc:
+:toc-placement!:
+:toclevels: 4
+:toc-title: 目录
+:sectnumlevels: 4
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+
+
+[preface]
+== 前言
+
+网上冲浪，偶尔会遇到非常好的资料。但看完，经常就找不到了。另外，有些非常系统的资料，但是没有 GitHub 仓库，不能 Fork。整理一个文档，收集一些比较适合学生学习的资料。文档由此而来。
+
+命名借鉴《Programming Pearls》（中文名：《编程珠玑》），取“珠玑”二字，表示弥足珍贵之意。
+
+
+
+[preface]
+== 友情支持
+
+如果您觉得这个笔记对您有所帮助，看在D瓜哥码字的辛苦上，请友情支持一下，D瓜哥感激不尽，😜
+
+[cols="2*^",frame=none]
+|===
+| image:images/alipay.png[title="支付宝", alt="支付宝", width="90%", align="center"] | image:images/wxpay.png[title="微信", alt="微信", width="90%", align="center"]
+|===
+
+有些打赏的朋友希望可以加个好友，欢迎关注D瓜哥的微信公众号，这样就可以通过公众号的回复直接给我发信息。
+
+image:images/wx-jike-log.png[align="center",width=100%]
+
+TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
+
+
+
+toc::[]
+
+
+
+== 优质资料
+
+. https://roadmap.sh/[Developer Roadmaps^] -- 这个 Roadmap 太全面了，不要被其吓到，慢慢来，会逐步跟上的。
+. https://docs.microsoft.com/en-us/learn/paths/web-development-101/[Web development for beginners - Learn | Microsoft Docs^]
+. https://www.pdai.tech/md/outline/x-outline.html[Java 全栈知识体系^]
+. https://snailclimb.gitee.io/javaguide/[JavaGuide^]
+. https://github.com/jwasham/coding-interview-university[A complete computer science study plan to become a software engineer.^]
+. https://github.com/pingcap/awesome-database-learning[A list of learning materials to understand databases internals^]
+. https://mp.weixin.qq.com/s/4onaESZlw31hxG8akpfuvA[除了 MIT 6.824，还有哪些高质量的「分布式系统」学习资料？]
+
+
+== 小工具
+
+. https://github.com/[GitHub]
+. https://stackoverflow.com/[Stack Overflow - Where Developers Learn, Share, & Build Careers]
+. https://naotu.baidu.com/[百度脑图 - 便捷的思维工具]
+. https://app.diagrams.net/[diagrams.net^] -- 最好用的免费画图工具。 桌面版 https://www.diagrams.net/[Diagram Software and Flowchart Maker^] 也极其好用，强烈推荐！！
+. https://processon.com/[ProcessOn - 免费在线作图，思维导图，流程图，实时协作]
+. https://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
+. https://asciidoctor.org/[Asciidoctor] -- 轻量级标记语言，功能强大，排版优美，文档齐全。
+. https://gohugo.io/[The world’s fastest framework for building websites | Hugo] -- 静态网站生成器，可以结合 GitHub 搭建自己的博客。

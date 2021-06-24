@@ -55,6 +55,11 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 详细内容请看： xref:plan.adoc[大学计算机学习攻略^]。
 
+[#pearls]
+== 资料珠玑
+
+优质网络资料： xref:pearls.adoc[资料珠玑^]。
+
 [#learning-advice]
 == 学习建议
 

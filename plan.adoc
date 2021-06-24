@@ -384,73 +384,28 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 大四下学期，很多人都去公司实习了，就不再推荐课程了。大家自行安排。
 
+学有余力的小伙伴，推荐在 xref:assignment.adoc#important-words[自学 Java 系列实验：肺腑之言^] 章节选择合适的实验来打怪升级！
 
-== 备选资料
+// == 职业发展方向
 
-=== 数据库
+// === 基础知识
 
-. https://mp.weixin.qq.com/s/4onaESZlw31hxG8akpfuvA[除了 MIT 6.824，还有哪些高质量的「分布式系统」学习资料？]
-. https://github.com/pingcap-incubator/tinysql/blob/course/courses/material.md[tinysql/material.md at course · pingcap-incubator/tinysql]
-. https://github.com/pingcap-incubator/tinykv[pingcap-incubator/tinykv: A course to build distributed key-value service based on TiKV model]
-. https://cs186berkeley.net/[CS 186] -- 伯克利大学计算机系统课程。其中 Project 通过五个实验来完成一个操作系统课程。
-. https://iamxpy.github.io/2017/10/05/%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%9C%E4%B8%9A%E5%AE%9E%E7%8E%B0SimpleDB/[伯克利大学数据库作业实现 SimpleDB]
-. https://www.zhihu.com/question/35382593/answer/102269843[大学生如何实现一个数据库？]
-. https://github.com/qw4990/NYADB2[qw4990/NYADB2: NYADB2]
+// . 英语
+// . C 语言
+// . 操作系统
+// . 计算机组成原理
+// . 计算机网络
+// . 数据结构与算法
+// . 编译原理
+// . 软件工程
 
-=== 计算机网络
-
-. 实现一个 HTTP 0.9 协议。
-. 实现一个 Java Servlet 容器。
-. https://www.bilibili.com/video/av31470470[手写服务器httpserver项目]
-
-=== Java 语言
-
-. 实现一个商城。
-.. 实现一个静态页面版 HTML + CSS + JavaScript；
-.. 使用 Java Servlet & JSP + JDBC 实现一个动态版；
-.. 使用 Spring MVC + Spring + MyBATIS 实现一个更加工程化的项目；
-.. 增加秒杀功能；
-.. 使用 Spring Cloud 实现一个微服务版；
-
-够大学四年折腾了…
-
-
-=== Linux 学习
-
-. http://www.linuxfromscratch.org/lfs/download.html[Linux From Scratch] -- 自己编译 Linux 系统。
-
-== 职业发展方向
-
-=== 基础知识
-
-. 英语
-. C 语言
-. 操作系统
-. 计算机组成原理
-. 计算机网络
-. 数据结构与算法
-. 编译原理
-. 软件工程
-
-=== 数据库管理员 DBA
-=== 数据库开发工程师
-=== 大数据开发工程师
-=== Java 开发工程师
-=== Android 开发工程师
-=== iOS 开发工程师
-=== 前端开发工程师
-=== 数据分析师
-=== 嵌入式开发工程师
-=== 硬件开发工程师
-
-
-== 小工具
-
-. https://github.com/[GitHub]
-. https://stackoverflow.com/[Stack Overflow - Where Developers Learn, Share, & Build Careers]
-. https://naotu.baidu.com/[百度脑图 - 便捷的思维工具]
-. https://app.diagrams.net/[diagrams.net^] -- 最好用的免费画图工具。 桌面版 https://www.diagrams.net/[Diagram Software and Flowchart Maker^] 也极其好用，强烈推荐！！
-. https://processon.com/[ProcessOn - 免费在线作图，思维导图，流程图，实时协作]
-. https://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
-. https://asciidoctor.org/[Asciidoctor] -- 轻量级标记语言，功能强大，排版优美，文档齐全。
-. https://gohugo.io/[The world’s fastest framework for building websites | Hugo] -- 静态网站生成器，可以结合 GitHub 搭建自己的博客。
+// === 数据库管理员 DBA
+// === 数据库开发工程师
+// === 大数据开发工程师
+// === Java 开发工程师
+// === Android 开发工程师
+// === iOS 开发工程师
+// === 前端开发工程师
+// === 数据分析师
+// === 嵌入式开发工程师
+// === 硬件开发工程师
