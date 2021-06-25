@@ -50,6 +50,7 @@ toc::[]
 
 . https://roadmap.sh/[Developer Roadmaps^] -- 这个 Roadmap 太全面了，不要被其吓到，慢慢来，会逐步跟上的。
 . https://docs.microsoft.com/en-us/learn/paths/web-development-101/[Web development for beginners - Learn | Microsoft Docs^]
+. https://exploringjs.com/deep-js/toc.html[Deep JavaScript^] -- 一本免费阅读的英文电子书，介绍 JavaScript 语言的底层机制和设计思想。
 . https://www.pdai.tech/md/outline/x-outline.html[Java 全栈知识体系^]
 . https://snailclimb.gitee.io/javaguide/[JavaGuide^]
 . https://github.com/jwasham/coding-interview-university[A complete computer science study plan to become a software engineer.^]
