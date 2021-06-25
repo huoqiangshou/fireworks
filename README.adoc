@@ -112,6 +112,12 @@ TIP: **公众号的微信号是: jike-log**。__因为众所周知的原因，�
 
 image::./images/the-pyramid-learning.png[The Pyramid Learning^]
 
+以阅读为例，从浅到深依次为：听书、自己读书、自己读书 + 摘抄金句、自己读书 + 思维导图/读书笔记、自己读书 + 践行操练、自己读书 + 践行操练 + 输出教授。
+
+image::./images/reading-pyramid.jpg[The Pyramid Learning with reading^]
+
+自学路上，书籍为伴，务必要提高自己的阅读效率。
+
 TIP: “学习方法”摘自 http://gk.link/a/1009i[左耳朵耗子的专栏“左耳听风”^]。这是“极客时间”上含金量最高、干货最充足的专栏。强烈推荐购买。
 
 [#appendix]
