@@ -62,6 +62,58 @@ toc::[]
 
 
 
+[#martes]
+== 日常练习：Martes 任务
+
+随着这几年的工作学习，发现自己的眼光开始有些局限，鉴于此，借鉴左耳朵耗子在读友群发起的活动，增加一个日常练习任务。
+
+这个任务，一方面要提高自己的技能，更重要的是开阔自己的眼界，抬头看世界。
+
+=== 任务详情
+
+* 每周至少做一个 LeetCode 的算法题；
+* 每周阅读并点评至少一篇英文技术文章，推荐 https://medium.com/[Medium^]（需要科学上网）。
+* 每周学习至少一个技术技巧；
+* 每周至少分享一篇有观点和思考的技术文章。
+
+考虑到英语和数学的重要性，再原有基础上，增加了两个任务：
+
+. English -- 学习英语，可以看美剧，推荐《Modern Family》；可以看原版小说，推荐《Harry Potter》全集；注意：读《Harry Potter》要读英文原版，不要读美语版。
++
+--
+下面这套《Harry potter》就很不错，价格实惠，重量很轻，阅读很方便：
+
+. https://book.douban.com/subject/26260838/[《Harry Potter and the Philosopher's Stone》^]。
+. https://book.douban.com/subject/26435068/[《Harry Potter and the Chamber of Secrets》^]。
+. https://book.douban.com/subject/26587557/[《Harry Potter and the Prisoner of Azkaban》^]。
+. https://book.douban.com/subject/26613320/[《Harry Potter and the Goblet of Fire》^]。
+. https://book.douban.com/subject/26821023/[《Harry Potter and the Order of the Phoenix》^]。
+. https://book.douban.com/subject/26887355/[《Harry Potter and the Half-Blood Prince》^]。
+. https://book.douban.com/subject/26913883/[《Harry Potter and the Deathly Hallows》^]。
+--
++
+. Mathematics -- 有感于很多地方需要数学知识，尤其是近几年大热的人工智能，故而把数学作为一个学习任务。
++
+--
+如果对此有什么异议，推荐读一读吴军的 https://book.douban.com/subject/35033507/[《数学之美》^]。
+
+对于该学什么，我个人并没有太多拿得出手的建议。在我认知范围内，概率论与数理统计在做分析时，很有帮助，可以考虑深入学习一下。其他方面的内容，需要再咨询资深人士。以后有机会再补充。
+--
+
+
+六个关键词是：Mathematics、Algorithm、Review、Technique、English、Share，简称 **Martes**。
+
+=== 学习目的
+
+* M means learn the Mathematics,
+* A means learn the Algorithm, 
+* R means learn the English, 
+* T means learn the techniques, 
+* E means learn the English,
+* S means learn how to influence people.
+
+
+
 :sectnums:
 
 
