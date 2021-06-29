@@ -4,6 +4,8 @@
 :toc-title: 目录
 :toclevels: 1
 :sectnumlevels: 4
+:chapter-number: -1
+:doctype: book
 
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -62,6 +64,10 @@ toc::[]
 
 
 
+:sectnums:
+
+
+
 [#martes]
 == 日常练习：Martes 任务
 
@@ -112,9 +118,6 @@ toc::[]
 * E means learn the English,
 * S means learn how to influence people.
 
-
-
-:sectnums:
 
 
 
