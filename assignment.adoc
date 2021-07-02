@@ -201,7 +201,7 @@ toc::[]
 [#tiny-spring]
 == 基于 TinySpring 实现的商城
 
-基于上面的项目，自己实现一个 IOC + AOP 框架： TinySpring。
+基于上面的项目，自己实现一个 IoC + AOP 框架： TinySpring。
 
 === 要求
 

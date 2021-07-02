@@ -210,8 +210,8 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 . https://es6.ruanyifeng.com/[ECMAScript 6 标准入门^] -- 阮一峰老师的良心之作！完全开源免费，而且持续更新中。前面推荐这个文档对应的书籍，这里再次推荐！
 . https://javascript.info/[The Modern JavaScript Tutorial^] -- 老外写的优质教程，被翻译成多国语言。网页版免费，PDF/EPUB 版需要付费购买。
-. https://bonsaiden.github.io/JavaScript-Garden/[JavaScript Garden^] -- 一个不错的 JavaScript 文档。
 . https://developer.mozilla.org/en-US/docs/Learn[Learn web development | MDN^] -- 学前端开发，一个 MDN 足矣！现在 Google、Microsoft 与 Mozilla 三巨头（为啥是这三巨头，想想常用的浏览器都是谁开发的，应该就明白了）共同维护这些文档。其权威性和可靠性，无出其右！
+. https://bonsaiden.github.io/JavaScript-Garden/[JavaScript Garden^] -- 一个不错的 JavaScript 文档。
 . https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/[How Browsers Work: Behind the scenes of modern web browsers^] -- 这篇文档可能不太适合大一来读。但是，非常经典。把浏览器的原理做了深入剖析。留作课后作业吧。
 
 
