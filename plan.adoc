@@ -281,6 +281,9 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 . https://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces^] -- 据说这是最简单易懂的操作系统教程，而且作者开源了整本电子书，可以直接在官网上下载。
 . https://book.douban.com/subject/27096665/[现代操作系统（原书第4版） (豆瓣)^]
 . https://book.douban.com/subject/19952400/[算法（第4版） (豆瓣)^]
+. https://book.douban.com/subject/26745780/[数据结构与算法分析 (豆瓣)^] -- 虽然上面的《算法（第4版）》鼎鼎大名，但是个人还是觉得这本书更易读一些。
+. https://book.douban.com/subject/4065258/[算法：C语言实现(第1～4部分)(豆瓣)^]
+. https://book.douban.com/subject/4191525/[算法：C语言实现（第5部分） (豆瓣)^] -- 跟上面的书是一套，感觉应该还有第三本，可惜一直没见出版。这套书跟《算法（第4版）》的作者是同一个人。只是这本书是用 C 语言实现的，看自己情况选用吧。
 . https://book.douban.com/subject/27074809/[MyBatis从入门到精通 (豆瓣)^]
 . https://book.douban.com/subject/34949443/[Spring实战（第5版 ） (豆瓣)] -- 实际上，学习 Spring 最重要的资料还是官方文档： https://docs.spring.io/spring/docs/current/spring-framework-reference/[Spring Framework Documentation^]。
 
@@ -308,6 +311,10 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 .. Backtracking
 .. Greedy
 .. Dynamic Programming
+
+=== 参考资料
+
+. https://visualgo.net/en/[visualising data structures and algorithms through animation - VisuAlgo^] -- 可视化的数据结构的过程。
 
 
 == 大二下学期
