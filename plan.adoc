@@ -41,12 +41,13 @@ endif::[]
 
 [cols="2*^",frame=none]
 |===
-| image:images/alipay.png[title="支付宝", alt="支付宝", width="90%", align="center"] | image:images/wxpay.png[title="微信", alt="微信", width="90%", align="center"]
+| image:images/alipay.png[title="支付宝", alt="支付宝", width="90%", align="center"] 
+| image:images/wxpay.jpg[title="微信", alt="微信", width="90%", align="center"]
 |===
 
 有些打赏的朋友希望可以加个好友，欢迎关注D瓜哥的微信公众号，这样就可以通过公众号的回复直接给我发信息。
 
-image:images/wx-jikerizhi.png[align="center",width=100%]
+image::images/wx-jikerizhi.png[align="center",width=100%]
 
 TIP: **公众号的微信号是:  jikerizhi （“极客日志”全拼）**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
 
@@ -164,8 +165,8 @@ https://github.com/[GitHub^] 是全世界最大的同性交友、搞基网站。
 
 ==== 进阶资料
 
+. https://zhuanlan.zhihu.com/p/56957210[GitHug 通关指南 - 知乎^] -- 以游戏通关的形式来介绍 Git，非常好玩。（这里还给了一些参考资料。）
 . http://fancyoung.com/blog/githug-cheat-sheet/[Githug通关全攻略] -- 以游戏通关的形式来介绍 Git，非常好玩。（美中不足，需要在本地安装 Ruby 环境。）
-. https://githug.zhang-ou.com/[Githug 通关攻略] -- 与上一个资料相同，都是 GitHug 的通关攻略。这个介绍得更详细一些。
 . http://marklodato.github.io/visual-git-guide/index-en.html[A Visual Git Reference] -- 这个文档也非常好。属于进阶内容。建议熟练 Git 操作后再入坑。
 . https://git-scm.com/book/en/v2[ProGit] -- 最权威，也是最全面的资料。
 

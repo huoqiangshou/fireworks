@@ -30,12 +30,13 @@ D瓜哥对整体做了规划，将实验拆分成了不同的迭代，结合目�
 
 [cols="2*^",frame=none]
 |===
-| image:images/alipay.png[title="支付宝", alt="支付宝", width="90%", align="center"] | image:images/wxpay.png[title="微信", alt="微信", width="90%", align="center"]
+| image:images/alipay.png[title="支付宝", alt="支付宝", width="90%", align="center"] 
+| image:images/wxpay.jpg[title="微信", alt="微信", width="90%", align="center"]
 |===
 
 有些打赏的朋友希望可以加个好友，欢迎关注D瓜哥的微信公众号，这样就可以通过公众号的回复直接给我发信息。
 
-image:images/wx-jikerizhi.png[align="center",width=100%]
+image::images/wx-jikerizhi.png[align="center",width=100%]
 
 TIP: **公众号的微信号是:  jikerizhi （“极客日志”全拼）**。__因为众所周知的原因，有时图片加载不出来。如果图片加载不出来可以直接通过搜索微信号来查找我的公众号。__
 
